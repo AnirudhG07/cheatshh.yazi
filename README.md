@@ -1,5 +1,7 @@
 # cheatshh.yazi
-A Yazi plugin for searching commands and copying them to your clipbaord, using [cheatshh](https://github.com/AnirudhG07/cheatshh)
+A Yazi plugin for searching commands and copying them to your clipbaord, using [cheatshh](https://github.com/AnirudhG07/cheatshh).
+
+https://github.com/AnirudhG07/cheatshh.yazi/assets/146579014/a44e120f-d713-4397-945c-16cd3f21187c
 
 ## Dependencies
 Please follow the download instruction and dependencies in the below link.
